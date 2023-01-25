@@ -7,9 +7,11 @@
 
 <br />
 
-hi, i'm Luis, a passionate self-taught full stack web developer and a freelance software engineer from Peru. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi there! I am a highly skilled and motivated full-stack web developer with a passion for designing and creating elegant, intuitive interfaces. With years of experience in software development, I have honed my skills in coding, architecture, and user experience design, and am committed to producing top-quality code and user experiences.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+In addition to my technical expertise, I am also an enthusiastic open-source contributor and maintainer. I believe in the power of collaboration and knowledge sharing, and have gained valuable experience through my involvement in the open-source community.
+
+I am constantly seeking new challenges and opportunities to learn and grow as a developer. I am particularly passionate about trying out different technologies and expanding my skillset. 
 
   
 - 💼 any freelance work? do reach, [email](mailto:luis.cairampoma.arbildo@gmail.com) :)
