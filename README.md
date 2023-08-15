@@ -1,6 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/luiscairampoma/">
+<a href="https://www.linkedin.com/in/luis-cairampoma">
   <img align="left" alt="Luis's LinkedIN" width="22px" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
 </a>
 
